@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image</string>
+    <string name="camera">Camera</string>
+    <string name="folder">Folder</string>
+    <string name="done">Done</string>
+
+</resources>
